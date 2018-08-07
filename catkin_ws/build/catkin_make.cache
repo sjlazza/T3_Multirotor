@@ -1,0 +1,2 @@
+t3_ros/DynamixelSDK/ros:t3_ros/microstrain_mips:t3_ros/t3_master
+-DCATKIN_DEVEL_PREFIX=/home/odroid/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/odroid/catkin_ws/install -G Unix Makefiles
