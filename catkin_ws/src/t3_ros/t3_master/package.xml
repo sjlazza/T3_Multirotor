@@ -54,7 +54,7 @@
   <build_depend>microstrain_3dm_gx5_45</build_depend>
   <build_export_depend>roscpp</build_export_depend>
   <build_export_depend>std_msgs</build_export_depend>
-  <build_export_depend>microstrain_3dm_gx5_45</build_depend>
+  <build_export_depend>microstrain_3dm_gx5_45</build_export_depend>
   <exec_depend>roscpp</exec_depend>
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>microstrain_3dm_gx5_45</exec_depend>
